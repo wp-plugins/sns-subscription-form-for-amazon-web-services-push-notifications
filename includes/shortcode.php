@@ -37,7 +37,6 @@ if ($msg == ""):
 
 	?>
 										<form action="" method="post" class="basic-grey">
-										<h1 class="basic-grey">Subscription Form</h1>
 										<input type="hidden" name="tarn" value="<?php echo $attr['topic_id'];?>" />
 										<label for="protocol">
 										<span>Subscribe ON :</span></label>
