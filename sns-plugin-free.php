@@ -34,7 +34,7 @@ if (get_option("hvk_amazon_key") != "" && get_option("hvk_amazon_secret") != "")
 	add_action('admin_menu', 'hvk_sns_menu');
 }
 function form_styles() {
-	wp_enqueue_style('hvk_form_styles', plugins_url('sns-plugin-free/styles.css'));
+	wp_enqueue_style('hvk_form_styles', plugins_url('/sns-subscription-form-for-amazon-web-services-push-notifications/styles.css'));
 
 }
 add_action('wp_enqueue_scripts', 'form_styles');
