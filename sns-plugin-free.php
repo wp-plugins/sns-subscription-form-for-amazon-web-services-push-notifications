@@ -1,7 +1,8 @@
 <?php
 /*
- * Plugin Name: SNS Plugin FREE
+ * Plugin Name: SNS Plugin FREE Subscription Form
  * Author: Party Plugins
+ *Version: 1.0
  * Author URL: http://www.snsplugin.com
  * Plugin Url: http://www.snsplugin.com
  * Description: Use this SNS Plugin form with Amazon's Simple Notification Service to keep in touch with customers easily. Send up to 1,000 email notifications and 100 SMS Text notifications every month absolutely FREE. By Party Plugins
